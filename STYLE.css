@@ -1,0 +1,23 @@
+h2{
+    background-color: rgb(121, 120, 116);
+    height: 50px;
+    
+    
+}
+*{
+    background-color: gainsboro;
+}
+p{
+    color: red;
+    margin-left: 50px;
+
+}
+input{
+    border-radius: 60px; 
+}
+textarea{
+    border-radius: 60px; 
+}
+.titre {
+  padding-top: 20px;
+} 
